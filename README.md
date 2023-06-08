@@ -1,17 +1,23 @@
-# Jekyll Modern Blog
+***
+基本信息：
+- ## 成立时间：*2014年4月*
+- ## 管Q：3222847690
+- ## 社团位置：中西部大楼131实验室
+***
+## 协会宗旨：
++ 服务会员；
++ 培养兴趣；
++ 创新发明；
++ 提升价值；
+***
+## 协会简介：
+&emsp;&emsp;安徽农业大学物理实验协会成立于2014年4月，协会宗旨是服务会员，培养兴趣，创新发明，提升价值。协会以普及物理实验知识为己任，以提高学生物理实验技能为目标，提高学生物理实验水平和创新实验能力。为我校科技发展做出自己的贡献。
 
-A Simple, Clean and responsive modern blog for jekyll.
-
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
-
-## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
-
-## License
-
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
-
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
-Changes being that I made it jekyll ready and smushed the CSS together.
+***
+## 职能部门：
++ 办公室
++ 实践部
++ 宣传部
++ 教学部
+***
+## 活动风采：
