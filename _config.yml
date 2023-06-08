@@ -1,0 +1,7 @@
+# Site settings
+title: 物理实验协会
+description: 安徽农业大学物理实验协会
+keywords: Physcial,Project, Recording
+author: 物理实验协会
+baseurl: "https://ahau-physical.github.io/" # the subpath of your site, e.g. /blog/
+url: "https://ahau-physical.github.io/" # the base hostname & protocol for your site
