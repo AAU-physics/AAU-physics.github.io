@@ -1,7 +1,7 @@
 ---
-title:  "物理实验协会"
-subtitle: "安徽农业大学--物理实验协会简介"
-author: "物理实验协会"
+title:  "Physcial Club"
+subtitle: "Introduction to Anhui Agricultural University - Physical Experiment Association"
+author: "Club"
 avatar: "img/authors/club.jpg"
 image: "img/c.jpg"
 date:   0000-00-00 12:12:12
