@@ -31,6 +31,6 @@ date:   0000-00-00 12:12:12
 + 教学部
 ***
 ## 活动风采：
-![百团招新活动 图标](../img/introduce/1.jpg)
+<!-- ![百团招新活动 图标](../img/introduce/1.jpg)
 ![协会常规活动 图标](../img/introduce/3.jpeg)
-![协会竞赛获奖 图标](../img/introduce/4.jpg)
+![协会竞赛获奖 图标](../img/introduce/4.jpg) -->
