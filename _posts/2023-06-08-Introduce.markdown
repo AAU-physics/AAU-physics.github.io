@@ -4,7 +4,7 @@ subtitle: "Introduction to Anhui Agricultural University - Physical Experiment A
 author: "Club"
 avatar: "img/authors/club.jpg"
 image: "img/c.jpg"
-date:   0000-00-00 12:12:12
+date:   2023-06-08 12:12:12
 ---
 
 ## <center>**物理实验协会**
