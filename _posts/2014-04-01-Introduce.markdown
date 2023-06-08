@@ -36,4 +36,4 @@ date:   2014-04-01 12:12:12
 ![百团招新活动 图标](../img/introduce/1.png)
 ![协会常规活动 图标](../img/introduce/3.png)
 ![协会竞赛获奖 图标](../img/introduce/4.png)
-<img decoding="async" src="../img/introduce/4.jpg" width="80%">
+<img decoding="async" src="../img/introduce/4.png" width="80%">
