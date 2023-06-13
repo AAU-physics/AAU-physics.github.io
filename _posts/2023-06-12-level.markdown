@@ -1,9 +1,9 @@
 ---
-title:  "Physical Experiment Association"
-subtitle: "Introduction to Physical Experiment Association of Anhui Agricultural University"
+title:  "Information"
+subtitle: "Information announcement"
 author: "FengCheng"
 avatar: "img/authors/club.png"
-image: "img/c.jpg"
+image: "img/f.jpg"
 date:   2023-06-12 12:12:12
 ---
 
@@ -16,9 +16,9 @@ date:   2023-06-12 12:12:12
 <center>推荐信息
 <img decoding="async" src="../img/table/1.png" width="100%">
 
-***
 
-+ ### 经过2022~2023一学年的努利，物理实验协会在年度星级评比中获三星社团的荣誉称号，感谢各位成员对物理实验协会的积极建设！！！
+
++ ### 经过2022~2023一学年的努力，物理实验协会在年度星级评比中获三星社团的荣誉称号，感谢各位成员对物理实验协会的积极建设！！！
 <center>星级公示
 <img decoding="async" src="../img/table/2.png" width="100%">
 
