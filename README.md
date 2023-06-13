@@ -23,9 +23,9 @@
 + 教学部
 ***
 ## 活动风采：
- <center>**百团招新**
-![百团招新活动 图标](./img/introduce/1.jpg)
- <center>**社团活动**
-![协会常规活动 图标](./img/introduce/3.jpeg)
- <center>**竞赛获奖**
-![协会竞赛获奖 图标](./img/introduce/4.jpg)
+<center>百团招新
+<img decoding="async" src="./img/introduce/1.png" width="100%">
+<center>社团活动
+<img decoding="async" src="./img/introduce/3.png" width="100%">
+<center>竞赛奖项
+<img decoding="async" src="./img/introduce/4.png" width="100%">
